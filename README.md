@@ -29,13 +29,10 @@ A Java-based bookstore application supporting both eBooks and paper books, with 
 
 <!-- Place a screenshot or photo from running the application below. For example, you can paste an image or use markdown to link to a local or remote image. -->
 
-![Screenshot Placeholder](path/to/your/screenshot.png)
+![Screenshot Placeholder](https://github.com/user-attachments/assets/8748d875-cdf4-4cc0-90b7-cc48037b4c81)
 
 ---
 
 ## Authors
-- [Your Name]
-
-## License
-[Specify license here]
+- Ali Hossam Elnagar(Tesla.)
 
